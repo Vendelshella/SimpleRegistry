@@ -1,0 +1,13 @@
+status	0x1 Transaction mined and execution succeed
+transaction hash	0xd496623414f43409ce3799ccfefc78745b7b47b144713f52fcac551d794458f7
+block hash	0x1c5365c6696616805816cd771e15972701832f9fe3ffee9a4ac073a06411e201
+block number	6190503
+contract address	0xd7cf75e9f810247e16d9bc40151f7b6284731400
+from	0x6bcbec2b3d2441f2f337b920593c0dd8fb624a23
+to	SimpleRegistry.(constructor)
+gas	560283 gas
+transaction cost	554713 gas 
+input	0x608...60033
+decoded input	{}
+decoded output	 - 
+logs	[]
